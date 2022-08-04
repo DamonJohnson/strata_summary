@@ -1,0 +1,7 @@
+Table 1,,,,,,,,,
+Borehole ID,Layer 1 Top Depth,Layer 1 Bottom Depth,Layer 1 Material,Layer 2 Top Depth,Layer 2 Bottom Depth,Layer 2 Material,Layer 3 Top Depth,Layer 3 Bottom Depth,Layer 3 Material
+BH01,0,0.4,Sandy CLAY,0.4,1,Sandy Gravelly CLAY,1,2.0,Silty CLAY with Sand
+BH02,0,0.2,Gravelly Sandy CLAY,0.2,1.5,Gravelly Sand,1.5,2.0,Sandy Gravelly CLAY
+BH03,0,0.2,Clayey SAND,0.2,1.3,Sandy CLAY,1.3,2.0,Clayey SAND
+BH04,0,0.5,Silty CLAY,0.5,1.2,Sandy CLAY,1.2,2.0,Sandy CLAY with Gravel
+BH05,0,0.3,Silty Gravelly CLAY,0.3,1.2,Silty CLAY,1.2,2.0,Silty Sandy CLAY with Gravel
