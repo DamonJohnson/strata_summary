@@ -1,17 +1,20 @@
 require './reader'
+require './cleaner'
+require 'csv'
+require 'erb'
 
-geol_data = CSV.parse(File.read('./data/P-EXAMPLE_GEOL-Table 1.csv'), headers: true)
+geol_data = (CSV.parse(File.read('./data/P-EXAMPLE_GEOL-Table 1.csv'), headers: true))
 gosa_data = CSV.parse(File.read('./data/P-EXAMPLE_GOSA-Table 1.csv'), headers: true)
 
 @entries = get_entries(geol_data)
 @num_entries = get_num_entries(geol_data)
-@units = get_units(geol_data)
+@origins = get_origins(geol_data)
 
 
 # Tests
 puts @entries
 puts @num_entries
-puts @units
+puts @origins
 
 
 

@@ -1,6 +1,4 @@
 require 'csv'
-require 'erb'
-
 
 
 def get_entries(data)
@@ -11,10 +9,9 @@ def get_num_entries(data)
     return data["PointID"].length
 end
 
-
 # Unit Summary Table
-def get_units(data)
-  return data["GEOL_ORIG"].uniq
+def get_origins(data)
+  data["GEOL_ORIG"].uniq.map { |origin| origin[0].upcase + origin[1..] }
 end
 
 
