@@ -1,0 +1,40 @@
+PointID,Depth,GEOL_BASE,GOSA_CLS,GOSA_NAQ,GOSA_NAM,GOSA_NAS,GOSA_C,GOSA_P1,GOSA_PC,GOSA_P2,GOSA_X,GOSA_L1,GOSA_LC,GOSA_L2,GOSA_U,GOSA_H,GOSA_S1,GOSA_S1D,GOSA_S2,GOSA_S2D,GOSA_M1Q,GOSA_M1,GOSA_M1D,GOSA_M2Q,GOSA_M2,GOSA_M2D,GOSA_OMC,GOSA_ODR,GOSA_STN,GOSA_MCN,GOSA_MCNJ,GOSA_MCX,GOSA_CONN,GOSA_CCNJ,GOSA_CONX,GOSA_ST,GOSA_REM
+BH01,0,0.2,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,rootlets
+BH01,0.2,0.5,CI,,clay,,brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH01,0.5,1.4,CI,,clay,,pale brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH01,1.4,1.8,CI,,clay,,pale grey,,,,,medium,,,,,silt,,gravel,fine to coarse subangular,,,,,,,,,,,,,,,,,
+BH03,0,0.2,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,rootlets
+BH03,0.2,1,CI,,clay,,pale mottled grey-brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH03,1,1.3,CI,,clay,,mottled orange-grey,,,,,medium,,,,,silt,,gravel,fine to coarse subangular,,,,,,,,,,,,,,,,,
+BH04,0,0.1,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,rootlets
+BH04,0.1,0.5,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH04,0.5,1.7,CI,,clay,,- brown-red,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH04,1.7,2,CI,,clay,,mottled grey-red,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH05,0,0.35,CL,,clay,,brown,,,,,low,,,,,silt,,sand,fine to coarse,with,,fine to coarse subangular gravel,,,,,,,,,,,,,,
+BH05,0.35,0.6,CI,,clay,,dark mottled orange-brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH05,0.6,1.7,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH05,1.7,2,CI,,clay,,pale grey,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH06,0,0.3,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,rootlets
+BH06,0.3,0.9,CI,,clay,,brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH06,0.9,1.4,CL,,clay,,pale brown,,,,,low,,,,,sand,fine,gravel,fine to coarse subangular,,,,,,,,,,,,,,,,,
+BH07,0,0.2,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,rootlets
+BH07,0.2,2,CI,,clay,,brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH08,0,0.1,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,rootlets
+BH08,0.1,0.3,CI,,clay,,dark brown,,,,,low,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH08,0.3,2,CI-CH,,clay,,pale brown,,,,,medium,to,high,,,silt,,,,with,,fine grained sand,,,,,,,,,,,,,,
+BH09,0,0.2,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,rootlets
+BH09,0.2,1,CI,,clay,,brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH09,1,2,CI,,clay,,greymottled brown-red,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH10,0,0.1,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,rootlets
+BH10,0.1,0.4,CI,,clay,,dark brown,,,,,low,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH10,0.4,0.8,CI,,clay,,brown,,,,,medium,,,,,silt,,,,trace,,fine to coarse grained sand,,,,,,,,,,,,,,
+BH10,0.8,2,CI-CH,,clay,,pale brown,,,,,medium,to,high,,,silt,,,,with,,fine grained sand,,,,,,,,,,,,,,
+BH11,0,0.02,CL,,clay,,brown,,,,,low,,,,,silt,,sand,fine to coarse,,,,,,,,,,,,,,,,,
+BH11,0.02,0.9,CI,,clay,,grey mottled brown-red,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH11,0.9,1.2,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH11,1.2,1.4,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH11,1.4,1.7,CI,,clay,,brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH11,1.7,2,CI,,clay,,pale grey,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH12,0,0.3,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,rootlets top 100mm
+BH12,0.3,0.6,CI,,clay,,dark brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
+BH12,0.6,2,CI,,clay,,brown,,,,,medium,,,,,silt,,,,,,,,,,,,,,,,,,,,
