@@ -18,8 +18,8 @@ data = CSV.parse(File.read("trial_strata.csv"), headers: true)
 @layer3_bottom = data[1][8]
 
 # render template
-template = File.read('../template.html.erb')
-result = ERB.new(template).result(binding)
+trial_template = File.read('./trial_template.html.erb')
+result = ERB.new(trial_template).result(binding)
 
 # write result to file
 File.open('strata_summary.html', 'w+') do |f|
